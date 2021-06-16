@@ -1,2 +1,57 @@
-# acronymes-vocabulaire-devs
-yay
+# Listes des acronymes / vocabulaires utilisés par les gros geeks
+
+- AFK > Away From Keyboard > Je reviens..
+- AKA > Also known as > Pseudonyme / Alias
+- ASAP > As soon as possible > Aussitôt que possible (ex: rgèle le bug asap !)
+- bb > Bye bye > Le au revoir
+- brb > Be Right Back > Je reviens dans 2 minutes
+- browser > navigateur > Chrome, Firefox, Internet Explorer, Edge, etc.
+- bump/up > "Je te pousse" > En gros tu n'as pas répondu, je te relance
+- CYT > See you tomorrow > On se voit demain / Au revoir
+- DIY > Do it Yourself > Faites le vous mêmes / Abordable
+- Facepalm > "Se mettre la tete dans les mains" > Une erreur plus grosse que toi
+- FAQ > Frequently Asked Questions > Questions Fréquemment Posées / Foire Aux Questions
+- FTW > For the win > Y aller a fond, Pour La Victoire
+- FYI > For your information > A titre informatif (ne sers a rien)
+- G2G > Got to go > Au revoir / Mettre fin a la conversation
+- glhf > Good Luck Have Fun > Amusez vous bien, parfois utilisé de manière sarcastique
+- IDC > I don’t care > Peut importe / Je m'en fous
+- IDK > I don't know > Je ne sais pas
+- IMO > In my opinion > Tu as tort parce que
+- IPS > Images Par Secondes (fluidité d'affichage dans les jeux vidéos)
+- IRL > In real life > Se voir en vrai (pas via Internet, on se rencontre allez viens tu verras on est bien)
+- JK > Just kidding > C'était une blague LOL
+- Lag > Ralentissements/Problèmes de connexion internet
+- lol > Laughing Out Loud > Je rigoleuh, souvent utilisé de manière sarcastique
+  - lel // Alternative
+- lmao/lmfao/ROTFL > Laughing My F*cking Ass Out > "J'en rigole tellement que j'en tombe a la renverse de ma chaise, cul par dessus tête"
+- Meme > Image rigolote, souvent répétée pas mal de fois et rentrée dans l'inconscient collectif du net, cf. site 9gag/4chan
+- N/A > Not Available / Applicable
+- NaN > Not a Number
+- Noob > Débutant/e
+- NSFW / SFW > Not Safe For Work > Pas génial pour le bureau (.. images a tendances graveleuse que ton boss doit pas voir par dessus ton épaule)
+- OMG > Oh My God > Oh mon dieu
+- OMW > On My Way > J'arrive
+- pebkac > Problem Encountered Between Keyboard And Chair > Le problème se situe entre le clavier et la chaise
+  - Manière polie d'insulter quelqu'un
+- Pwned > Avoir trollé quelqu'un / vidéos de gens qui se cassent la figure
+- RAMer > Ralentissements/Problème de PC pas assez puissants (perte de fluidité, d'images par seconde)
+- rick roll > troller quelqu'un en lui envoyant un mauvais lien, vers une ville vidéo de rick astley
+  - Ex Va voir ce lien il est trop bien : [Devenir développeur en 3 jours](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+- Spam / Flood > Envoi d'une quantité massive (.. de publicités / trucs inintérréssants)
+- TBH > To be honest > Pour être honnête (... c'est de la merde)
+- THX > Thanks > Merci
+  - TYVM > Thank You Very Much > Merci beaucoup
+- TL;DR > Too long; didn’t read > Trop de texte
+- Troll > "Troller" quelqu'un > Se moquer de lui/d'elle, +- gentimment :D
+- W8 > Wait > Attends
+- w00t > Yay / Super / Hourrah
+- wp > Well played > Bien joué, bien trouvé
+- WTF > What the f*ck > Ohlala mais quelle est cette absurdité ?
+  - WTH	> What the Hell / What the Heck
+- WYSIWYG > What You See Is What You Get > Le visuel représente la réalité
+
+- Toutes les anciennes émoji... :) :'( 8) etc.
+- Et d'autres plus poussées
+  - ¯\_(ツ)_/¯      // Whatever, peut importe
+  - (ノ°Д°）ノ┻━┻   // Flip table > Tout envoyer valser, ça ne marche pas
