@@ -15,6 +15,7 @@
 - FYI > For your information > A titre informatif (ne sers a rien)
 - G2G > Got to go > Au revoir / Mettre fin a la conversation
 - glhf > Good Luck Have Fun > Amusez vous bien, parfois utilisé de manière sarcastique
+- GTFO > Get The F*ck Out > Barre toi d'ici, arrête ton char
 - IDC > I don’t care > Peut importe / Je m'en fous
 - IDK > I don't know > Je ne sais pas
 - IMO > In my opinion > Tu as tort parce que
